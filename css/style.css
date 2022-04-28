@@ -126,3 +126,9 @@ button {
 
   font-size: 1rem;
 }
+
+#members{
+  margin-top: 2rem;
+  color: black;
+  text-align: center;
+}
